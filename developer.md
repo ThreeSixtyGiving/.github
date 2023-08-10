@@ -1,5 +1,9 @@
 # Development on 360Giving software products
 
+## Contributing 
+
+[More information about contributing to 360Giving software](https://www.threesixtygiving.org/data/using-the-data/technical-users/#Contributing_to_360Giving_software)
+
 ## Workflow
 Generalised workflow for making a change in a 360Giving software repository
 
