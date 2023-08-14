@@ -13,7 +13,7 @@ Generalised workflow for making a change in a 360Giving software repository
 4. Commit changes to branch
 5. Push changes to github
 6. Create pull request
-7. If any CI tests pass and pull request is ready - assign reviewers to review pull request. If not ready set pull request as draft. If webfront end changes make sure 360Giving have approved.
+7. If CI tests pass and pull request is ready - assign reviewers to review pull request. If not ready set pull request as draft. If webfront end changes make sure 360Giving have approved.
 8. After pull request approved merge
 9. Deploy to live
 
