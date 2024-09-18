@@ -17,6 +17,11 @@ Generalised workflow for making a change in a 360Giving software repository
 8. After pull request approved merge
 9. Deploy to live
 
+## Pull requests / Git history
+Linear git history without merge commits is preferred.
+
+If a pull request/branch is out of date with `live` use "Update via rebase" in the GitHub interface or `$ git pull --rebase origin live` and then force push when happy)
+
 ## Git branch names
 If sole collaborator prefix the git topic branch name using your initials (or other known identifier) and a forward slash, for example `mw/fix_issue_102` . This helps to make sure ownership and uniqueness is communicated (especially when checking out branches locally/outside of github).
 
